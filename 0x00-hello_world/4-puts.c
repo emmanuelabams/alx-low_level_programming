@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - main block  
+ * main - main block
+ *
+ * Description: using the main function
+ * this programs print "Programming is like building a multilingual puzzle
  * Return: 0
  */
 int main(void)
